@@ -1,0 +1,7 @@
+ESP32 board package
+OneWire
+DallasTemperature
+SparkFun MAX3010x Pulse and Proximity Sensor Library (MAX30105.h / heartRate.h)
+MFRC522
+ArduinoJson
+WiFi / HTTPClient / WebServer (included with ESP32 core)
